@@ -1,4 +1,4 @@
 PythonPluginLoader
 ==================
 
-PythonPluginLoader by masteroftime and lahwran, updated
+New version of PythonPluginLoader by masteroftime and lahwran, work in progress
